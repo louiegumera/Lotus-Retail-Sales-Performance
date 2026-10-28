@@ -122,9 +122,12 @@ KPI cards provide a quick overview of the business's overall performance for the
 ### Monthly Revenue Trends
 Line chart shows how revenue changes from month to month. The horizontal axis represents the months, while the vertical axis represents revenue.
 
-**Why it matters:**
+**Purpose:**
+
 • Identifies months with the highest and lowest revenue.
+
 • Reveals recurring seasonal patterns or changes in sales.
+
 • Helps management plan inventory, staffing, and promotions.
 
 ![Monthly Revenue Trends](https://github.com/louiegumera/Lotus-Retail-Sales-Performance/blob/main/Dashboard/Monthly%20Revenue%20Trends.png)
@@ -133,12 +136,17 @@ Line chart shows how revenue changes from month to month. The horizontal axis re
 Multi-series line chart compares the number of newly observed customers with returning customers across months.
 
 **Data Series:**
+
 • New Customers: Customers whose first recorded completed purchase occurs during the selected period.
+
 • Returning Customers: Customers with a completed purchase during the period whose first recorded completed purchase occurred earlier.
 
-**Why it matters:**
+**Purpose:**
+
 • Shows whether the business is attracting new customers.
+
 • Helps monitor repeat purchasing behavior.
+
 • Provides insight into customer acquisition and retention patterns.
 
 ![New and Returning Customer Trends](https://github.com/louiegumera/Lotus-Retail-Sales-Performance/blob/main/Dashboard/New%20and%20Returning%20Customers.png)
@@ -146,9 +154,12 @@ Multi-series line chart compares the number of newly observed customers with ret
 ### Sales by Store
 It compares revenue across individual stores. Each bar represents a store, and the bar length indicates its revenue.
 
-**Why it matters:**
+**Purpose:**
+
 • Identifies the highest-performing stores.
+
 • Highlights stores generating relatively low revenue.
+
 • Helps management compare store performance and identify where further analysis may be needed.
 
 ![Sales by Store](https://github.com/louiegumera/Lotus-Retail-Sales-Performance/blob/main/Dashboard/Sales%20by%20Store.png)
