@@ -54,9 +54,6 @@ WHERE row_num > 1;
 
 ### Creating a backup table
 
-A backup table is necessary before doing any changes, it keeps the original table
-intact for future revisions.
-
 ```sql
 CREATE TABLE `cs_staging2` (
   `customer_id` text,
@@ -168,3 +165,5 @@ It compares revenue across individual stores. Each bar represents a store, and t
 The Year Slicer allows users to interactively filter the dashboard by year, making it easier to explore annual sales performance, revenue trends, store performance, and customer behavior.
 
 ![Year Slicer](https://github.com/louiegumera/Lotus-Retail-Sales-Performance/blob/main/Dashboard/Year%20Slicer.png)
+
+*Thank you for visiting my portfolio!*
